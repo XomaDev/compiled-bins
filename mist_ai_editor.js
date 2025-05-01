@@ -14,7 +14,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 console.log('Happy developing ✨');
-const MIST_ENDPOINT = "https://mist.ekita.me:2052/mist";
+const MIST_ENDPOINT = "https://mist.ekita.me:2053/mist";
 const FRAME_URL = "https://mist-playground.vercel.app/";
 const MIST_JS = "https://cdn.jsdelivr.net/gh/XomaDev/compiled-bins/mist-x.js";
 const FILTER_BLOCKS = ["component_event", "global_declaration", "procedures_defreturn", "procedures_defnoreturn"];
